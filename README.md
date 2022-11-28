@@ -7,7 +7,7 @@ Node.js:
 
 Check NodeJs Version:
 
-Open the Terminal
+Open the Terminal :
 
 Run: node -v or node --version
 
@@ -18,7 +18,7 @@ $ v14.18.1
  
 Make sure that you are running version v14.18.1 
  
-if not use the following commands to check and install correct version
+if not use the following commands to check and install correct version :
  
 node -- version (checks node version) 
  
@@ -28,7 +28,6 @@ nvm install v14.18.1 after installation run,
  
 nvm use v14.18.1
  
-after installation 
 
 React Packages Install:
 
