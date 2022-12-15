@@ -12,7 +12,7 @@ const FooterSocial = () => {
               <div className='col-md-7 col-lg-7'>
                 <div className='copyright-text'>
                   <p className='mb-lg-0 mb-md-0'>
-                    &copy; 2021 Quiety Rights Reserved. Designed By{' '}
+                    &copy; 2022 Solvaxion | All Rights Reserved. Designed By {' '}
                     <Link
                       to='https://themetags.com/'
                       className='text-decoration-none ms-2'
