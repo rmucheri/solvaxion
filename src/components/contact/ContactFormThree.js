@@ -23,7 +23,7 @@ const ContactFormThree = () => {
                   data-aos-delay="50"
                 >
                   <div className="icon-box d-inline-block rounded-circle bg-primary-soft">
-                    <i className="fas fa-phone fa-2x text-primary"></i>
+                    <i className="fas fa-globe fa-2x text-primary"></i>
                   </div>
                   <div className="contact-info">
                     <h5>Call Us</h5>

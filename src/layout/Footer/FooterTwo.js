@@ -17,9 +17,12 @@ const FooterTwo = () => {
                   />
                 </div>
                 <p className="text-white">
-                  Our latest news, articles, and resources, we will sent to your
-                  inbox weekly. Our latest news, articles, and resources, we
-                  will sent to your inbox weekly.
+                  Solvaxion is a Canadian technology start-up whose mission is
+                  to provide innovative technology solutions for small and
+                  medium sized organisations globally, by offering
+                  software-as-a-service (SaaS) solutions, custom software
+                  development, technology consulting, and web development
+                  services.
                 </p>
                 <ul className="list-unstyled list-inline cyber-footer-social-list mb-0">
                   <li className="list-inline-item">
@@ -131,17 +134,17 @@ const FooterTwo = () => {
                     <ul className="list-unstyled footer-nav-list mb-lg-0">
                       <li>
                         <Link to="/" className="text-decoration-none">
-                          Phone: +61-821-456
+                          Phone: +1 647-732-9994
                         </Link>
                       </li>
                       <li>
                         <Link to="/about-us" className="text-decoration-none">
-                          Email: hello@vaximo.com
+                          Email: info@solvaxion.com
                         </Link>
                       </li>
                       <li>
                         <Link to="/" className="text-decoration-none">
-                          Address: 123, Western Road, Melbourne Australia
+                          Address: Canada & Zimbabwe
                         </Link>
                       </li>
                     </ul>
@@ -155,13 +158,7 @@ const FooterTwo = () => {
       <div className="cyber-footer-bottom">
         <div className="container">
           <p className="mb-0 py-4 text-center">
-            Copyright @2022 All Rights Reserved by
-            <a
-              href="https://www.themetags.com"
-              className="text-decoration-none ms-2"
-            >
-              ThemeTags
-            </a>
+            Solvaxion Copyright @2022 All Rights Reserved
           </p>
         </div>
       </div>

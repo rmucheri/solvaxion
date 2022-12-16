@@ -62,7 +62,7 @@ const Navbar = ({ navDark }) => {
             <div className="collapse navbar-collapse justify-content-center">
               <ul className="nav col-12 col-md-auto justify-content-center main-menu">
                 <li className="nav-item">
-                  <Link className="nav-link" to="/home-soft-app">
+                  <Link to="/" className="nav-link">
                     Home
                   </Link>
                 </li>
