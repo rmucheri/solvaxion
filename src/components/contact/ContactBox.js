@@ -10,18 +10,11 @@ const ContactBox = () => {
               <div className="contact-us-promo p-5 bg-white rounded-custom custom-shadow text-center d-flex flex-column h-100">
                 <span className="fad fa-comment-alt-lines fa-3x text-primary"></span>
                 <div className="contact-promo-info mb-4">
-                  <h5>Chat with us</h5>
-                  <p>
-                    We've got live Social Experts waiting to help you{" "}
-                    <strong>monday to friday</strong> from
-                    <strong>9am to 5pm EST.</strong>
-                  </p>
+                  <h5>Schedule A Call</h5>
+                  <p>We are waiting to help you with your project </p>
                 </div>
-                <a
-                  href="mailto:info@solvaxion.com"
-                  className="btn btn-link mt-auto"
-                >
-                  Chat with us
+                <a href="#" className="btn btn-primary mt-auto">
+                  Schedule A Call
                 </a>
               </div>
             </div>
@@ -32,8 +25,7 @@ const ContactBox = () => {
                   <h5>Email Us</h5>
                   <p>
                     Simple drop us an email at{" "}
-                    <strong> info@solvaxion.com </strong>
-                    and you'll receive a reply within 24 hours
+                    <strong>info@solvaxion.com </strong>
                   </p>
                 </div>
                 <a
@@ -50,13 +42,15 @@ const ContactBox = () => {
                 <div className="contact-promo-info mb-4">
                   <h5>Give us a call</h5>
                   <p>
-                    Give us a ring.Our Experts are standing by{" "}
-                    <strong>monday to friday</strong> from
+                    Give us a ring. <strong>monday to friday</strong> from
                     <strong>9am to 5pm EST.</strong>
                   </p>
                 </div>
-                <a href="tel:00-976-561-008" className="btn btn-link mt-auto">
-                  00-976-561-008
+                <a
+                  href="tel:+1 647-732-9994"
+                  className="btn btn-primary mt-auto"
+                >
+                  +1 647-732-9994
                 </a>
               </div>
             </div>
