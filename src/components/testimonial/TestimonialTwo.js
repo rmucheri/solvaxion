@@ -1,11 +1,9 @@
 import React from "react";
-import { Swiper, SwiperSlide } from 'swiper/react';
+import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper";
 import Rating from "../review/Rating";
 import { TestimonialData } from "../../data";
 import SectionTitle from "../common/SectionTitle";
-
-
 
 const TestimonialTwo = ({ dark, bgWhite }) => {
   const swiperOption = {
@@ -42,29 +40,26 @@ const TestimonialTwo = ({ dark, bgWhite }) => {
   return (
     <>
       <section
-        className={`testimonial-section ${dark ? "bg-dark" : "bg-light"
-          } ptb-120 ${bgWhite ? "bg-white" : ""}`}
+        className={`testimonial-section ${
+          dark ? "bg-dark" : "bg-light"
+        } ptb-120 ${bgWhite ? "bg-white" : ""}`}
       >
         <div className="container">
           <div className="row justify-content-center align-content-center">
             <div className="col-md-10 col-lg-6">
               {dark ? (
                 <SectionTitle
-                  subtitle="Testimonial"
-                  title="What They Say About Us"
-                  description="Dynamically initiate market positioning total linkage with
-                  clicks-and-mortar technology compelling data for cutting-edge
-                  markets."
+                  subtitle="Testimonials"
+                  title="Real Results from Real Customers"
+                  description="See how our SaaS solutions have helped businesses like yours succeed"
                   darkBg
                   centerAlign
                 />
               ) : (
                 <SectionTitle
-                  subtitle="Testimonial"
-                  title="What They Say About Us"
-                  description="Dynamically initiate market positioning total linkage with
-                clicks-and-mortar technology compelling data for cutting-edge
-                markets."
+                  subtitle="Testimonials"
+                  title="Real Results from Real Customers"
+                  description="See how our SaaS solutions have helped businesses like yours succeed"
                   centerAlign
                 />
               )}
@@ -77,10 +72,11 @@ const TestimonialTwo = ({ dark, bgWhite }) => {
                   {TestimonialData.map((data) => (
                     <SwiperSlide key={data.id}>
                       <div
-                        className={`p-5 rounded-custom position-relative ${dark
-                          ? "bg-custom-light text-white"
-                          : "border border-2"
-                          }   `}
+                        className={`p-5 rounded-custom position-relative ${
+                          dark
+                            ? "bg-custom-light text-white"
+                            : "border border-2"
+                        }   `}
                       >
                         <img
                           src="assets/img/testimonial/quotes-dot.svg"

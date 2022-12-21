@@ -13,7 +13,7 @@ const Services = () => {
       <Navbar navDark />
       <PageHeader
         title="We are Saas Experts"
-        desc="SaaS experts often have a deep understanding of the underlying technology that powers SaaS applications, including cloud computing, web services, and software development frameworks. They may also have expertise in specific SaaS applications, such as customer relationship management (CRM) software or enterprise resource planning (ERP) systems.."
+        desc="Let us help you streamline your operations and drive success."
       />
       <FeatureTwo />
       <TestimonialTwo bgWhite />

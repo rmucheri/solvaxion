@@ -91,7 +91,7 @@ h1,
   font-family: "DM Sans", sans-serif;
   font-weight: 600;
   line-height: 1.2;
-  color: #dc3545;
+  color: #0d1830;
 }
 
 h1,
@@ -2868,8 +2868,8 @@ fieldset:disabled .btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #144ed9;
-  border-color: #124acc;
+  background-color: #cf2027;
+  border-color: #cf2027;
 }
 .btn-check:focus + .btn-primary,
 .btn-primary:focus {
@@ -12366,7 +12366,7 @@ h4 {
 .main-menu li a.nav-link {
   padding: 0.85rem 1rem;
   font-size: 0.9375rem;
-  font-weight: 500;
+  font-weight: 700;
   position: relative;
   font-family: "DM Sans", sans-serif;
 }
@@ -12378,7 +12378,7 @@ h4 {
 }
 
 .navbar-dark .main-menu li a.nav-link {
-  color: #e2e8f0;
+  color: #cf2027;
 }
 
 .navbar-dark .action-btns a.btn-link {
@@ -12703,7 +12703,7 @@ h4 {
 
 .bg-dark .copyright-text p,
 .bg-gradient .copyright-text p {
-  color: #e2e8f0;
+  color: #0d1830;
 }
 
 .bg-dark .copyright-text p a,
@@ -12722,7 +12722,7 @@ h4 {
   line-height: 32px;
   text-align: center;
   border: 2px solid rgba(255, 255, 255, 0.12);
-  color: #65676d;
+  color: #cf2027;
   border-radius: 4px;
   transition: all 0.3s ease-in-out;
 }
@@ -12738,7 +12738,7 @@ h4 {
 
 .footer-social-list li a:hover {
   background: #175cff;
-  color: #fff;
+  color: #cf2027;
   border-color: #175cff;
 }
 
@@ -16559,7 +16559,7 @@ select.form-select {
 .bg-purple .h5,
 .bg-purple h6,
 .bg-purple .h6 {
-  color: #fff;
+  color: #0d1830;
 }
 
 .bg-primary p,
@@ -16574,7 +16574,7 @@ select.form-select {
 .bg-purple p,
 .bg-purple li,
 .bg-purple span {
-  color: #d9d9d9;
+  color: #0d1830;
 }
 
 .bg-white h1,

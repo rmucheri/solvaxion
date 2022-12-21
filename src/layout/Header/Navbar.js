@@ -36,12 +36,12 @@ const Navbar = ({ navDark }) => {
               className="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none"
             >
               <img
-                src="assets/img/logo-white.png"
+                src="assets/img/sol.svg"
                 alt="logo"
                 className="img-fluid logo-white"
               />
               <img
-                src="assets/img/logo-color.png"
+                src="assets/img/sol.svg"
                 alt="logo"
                 className="img-fluid logo-color"
               />
@@ -62,8 +62,8 @@ const Navbar = ({ navDark }) => {
             <div className="collapse navbar-collapse justify-content-center">
               <ul className="nav col-12 col-md-auto justify-content-center main-menu">
                 <li className="nav-item">
-                  <Link to="/about-us" className="nav-link">
-                    About
+                  <Link to="/" className="nav-link">
+                    Home
                   </Link>
                 </li>
                 <li>

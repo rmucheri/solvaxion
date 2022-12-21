@@ -17,12 +17,12 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
                 <div className="footer-single-col">
                   <div className="footer-single-col mb-4">
                     <img
-                      src="assets/img/logo-white.png"
+                      src="assets/img/solv.svg"
                       alt="logo"
                       className="img-fluid logo-white"
                     />
                     <img
-                      src="assets/img/logo-color.png"
+                      src="assets/img/solv.svg"
                       alt="logo"
                       className="img-fluid logo-color"
                     />
