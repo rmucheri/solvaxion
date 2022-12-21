@@ -2863,8 +2863,8 @@ fieldset:disabled .btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #175cff;
-  border-color: #175cff;
+  background-color: #0d1830;
+  border-color: #0d1830;
 }
 .btn-primary:hover {
   color: #fff;
@@ -12980,7 +12980,8 @@ dd {
 }
 
 .bg-dark {
-  background-color: #0b163f !important;
+  background-color: #ffffff !important;
+  /* background-image: linear-gradient(23deg, #9d9fa2, white) !important; */
 }
 
 .bg-dark-dark {
