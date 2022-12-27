@@ -19,7 +19,7 @@ const About = () => {
       {/* <OurStory /> */}
       <FeatureImgThree />
       <Team />
-      <TestimonialTwo />
+      {/* <TestimonialTwo /> */}
       <CtaTwo />
       <FooterOne footerLight />
     </Layout>

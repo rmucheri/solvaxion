@@ -31,9 +31,9 @@ const AboutPageHero = () => {
                     <Link to="/services" className="btn btn-primary mt-4 me-3">
                       What We Do Best
                     </Link>
-                    <Link to="/about-us" className="btn btn-soft-primary mt-4">
+                    {/* <Link to="/about-us" className="btn btn-soft-primary mt-4">
                       Meet Our Team
-                    </Link>
+                    </Link> */}
                   </div>
                   {/* <img
                     src="assets/img/about-img-1.jpg"

@@ -16,7 +16,7 @@ const Services = () => {
         desc="Let us help you streamline your operations and drive success."
       />
       <FeatureTwo />
-      <TestimonialTwo bgWhite />
+      {/* <TestimonialTwo bgWhite /> */}
       <CtaTwo />
       <FooterOne footerLight />
     </Layout>

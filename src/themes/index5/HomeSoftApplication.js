@@ -23,9 +23,9 @@ const HomeSoftApplication = () => {
       <HeroFive />
       <PromoTwo />
       <TabOne />
-      <FeatureImgSix />
-      <FeatureImgSeven />
-      <CtaThree />
+      {/* <FeatureImgSix /> */}
+      {/* <FeatureImgSeven /> */}
+      {/* <CtaThree /> */}
       <WorkProcessFour />
       {/* <TestimonialTwo />
       <CtaSubscribe />
