@@ -12390,7 +12390,7 @@ h4 {
 .navbar-light .action-btns a.btn-link,
 .navbar-dark.sticky-header.affix .main-menu li a.nav-link,
 .navbar-dark.sticky-header.affix .action-btns a.btn-link {
-  color: #575757;
+  color: #0d1830;
 }
 
 .navbar-light.sticky-header.affix,
@@ -12948,7 +12948,7 @@ dd {
 }
 
 .bg-warning {
-  background-color: #ffb116 !important;
+  background-color: #cf2027 !important;
 }
 
 .bg-warning-dark {
@@ -12976,7 +12976,7 @@ dd {
 }
 
 .bg-dark-light {
-  background-color: #071c4d;
+  background-color: #cf2027;
 }
 
 .bg-dark {
@@ -16177,8 +16177,8 @@ select.form-select {
 
 .btn-soft-primary {
   color: #fff;
-  background-color: rgba(23, 92, 255, 0.15);
-  border-color: rgba(23, 92, 255, 0.15);
+  background-color: #cf2027;
+  border-color: #cf2027;
 }
 
 .btn-outline-primary {
