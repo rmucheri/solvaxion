@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import OffCanvasMenu from "./OffCanvasMenu";
-import logo from "./solv.svg";
+import logo from "./logo-color.png";
 
 const Navbar = ({ navDark }) => {
   const [scroll, setScroll] = useState(0);
@@ -40,7 +40,7 @@ const Navbar = ({ navDark }) => {
             >
               <img src={logo} alt="logo" className="img-fluid logo-white" />
               <img
-                src="assets/img/sol.svg"
+                src="assets/img/logo-color.png"
                 alt="logo"
                 className="img-fluid logo-color"
               />
