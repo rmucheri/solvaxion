@@ -35,14 +35,14 @@ const AboutPageHero = () => {
                       Meet Our Team
                     </Link>
                   </div>
-                  <img
+                  {/* <img
                     src="assets/img/about-img-1.jpg"
                     alt="about"
                     className="img-fluid about-img-first mt-5 rounded-custom shadow"
-                  />
+                  /> */}
                 </div>
                 <div className="about-content-right">
-                  <img
+                  {/* <img
                     src="assets/img/about-img-2.jpg"
                     alt="about"
                     className="img-fluid mb-5 rounded-custom shadow"
@@ -51,7 +51,7 @@ const AboutPageHero = () => {
                     src="assets/img/about-img-3.jpg"
                     alt="about"
                     className="rounded-custom about-img-last shadow"
-                  />
+                  /> */}
                 </div>
               </div>
             </div>

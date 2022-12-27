@@ -35,7 +35,7 @@ const FeatureTwo = ({ cardDark }) => {
             <div className="col-12">
               <div className="feature-grid">
                 <div
-                  className={`shadow-sm highlight-card rounded-custom p-5 ${
+                  className={`shadow-sm rounded-custom p-5 ${
                     cardDark
                       ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
                       : "bg-white"

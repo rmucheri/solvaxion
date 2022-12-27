@@ -27,10 +27,10 @@ const HomeSoftApplication = () => {
       <FeatureImgSeven />
       <CtaThree />
       <WorkProcessFour />
-      <TestimonialTwo />
+      {/* <TestimonialTwo />
       <CtaSubscribe />
       <IntegrationTwo />
-      <LatestBlogTwo />
+      <LatestBlogTwo /> */}
       <FooterOne
         style={{
           background:

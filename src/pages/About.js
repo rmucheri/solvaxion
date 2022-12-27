@@ -16,7 +16,7 @@ const About = () => {
       <PageMeta title="About - Solvaxion - SaaS Solutions" />
       <Navbar classOption="navbar-light" />
       <AboutPageHero />
-      <OurStory />
+      {/* <OurStory /> */}
       <FeatureImgThree />
       <Team />
       <TestimonialTwo />

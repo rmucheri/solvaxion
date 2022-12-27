@@ -1,12 +1,15 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import OffCanvasMenu from "./OffCanvasMenu";
+import logo from "./solv.svg";
 
 const Navbar = ({ navDark }) => {
   const [scroll, setScroll] = useState(0);
   const [headerTop, setHeaderTop] = useState(0);
 
   useEffect(() => {
+    console.log("logo", logo);
+
     const stickyheader = document.querySelector(".main-header");
     setHeaderTop(stickyheader.offsetTop);
     window.addEventListener("scroll", handleScroll);
@@ -35,11 +38,7 @@ const Navbar = ({ navDark }) => {
               to="/"
               className="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none"
             >
-              <img
-                src="assets/img/sol.svg"
-                alt="logo"
-                className="img-fluid logo-white"
-              />
+              <img src={logo} alt="logo" className="img-fluid logo-white" />
               <img
                 src="assets/img/sol.svg"
                 alt="logo"
