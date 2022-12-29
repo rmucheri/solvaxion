@@ -11,7 +11,7 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Inter&display=swap");
 :root {
   --bs-blue: #0d1830;
   --bs-indigo: #6610f2;
@@ -35,8 +35,8 @@
   --bs-danger: #f25767;
   --bs-light: #fff;
   --bs-dark: #0b163f;
-  --bs-font-sans-serif: "DM Sans", sans-serif;
-  --bs-font-monospace: "DM Sans", sans-serif;
+  --bs-font-sans-serif: "Inter", sans-serif;
+  --bs-font-monospace: "Inter", sans-serif;
   --bs-gradient: linear-gradient(
     180deg,
     rgba(255, 255, 255, 0.15),
@@ -88,7 +88,7 @@ h1,
 .h1 {
   margin-top: 0;
   margin-bottom: 0.625rem;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
   font-weight: 600;
   line-height: 1.2;
   color: #0d1830;
@@ -2824,7 +2824,7 @@ textarea.form-control.is-invalid {
 
 .btn {
   display: inline-block;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
   font-weight: 500;
   line-height: 1.75;
   color: #575757;
@@ -12044,7 +12044,7 @@ button:focus {
  * Basic typography style for copy text
  */
 body {
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -12368,7 +12368,7 @@ h4 {
   font-size: 0.9375rem;
   font-weight: 700;
   position: relative;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
 }
 
 .dropdown-menu {
@@ -12453,7 +12453,7 @@ h4 {
   font-size: 0.875rem;
   color: #575757;
   font-weight: 500;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .dropdown-grid-item a:hover .drop-title,
@@ -12581,7 +12581,7 @@ h4 {
   display: block;
   opacity: 0.5;
   font-weight: 500;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
   transition: all 0.3s ease-in-out;
 }
 
@@ -12690,7 +12690,7 @@ h4 {
   font-size: 14px;
   color: #65676d;
   font-weight: 500;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
 }
 
 .copyright-text p a {
@@ -12822,7 +12822,7 @@ dt {
   color: #0b163f;
   margin-bottom: 0.25rem;
   font-weight: 600;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
 }
 
 dd {
@@ -13064,7 +13064,7 @@ a:hover,
 
 .link-text,
 .watch-now-btn {
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
   font-weight: 500;
 }
 
@@ -13099,7 +13099,7 @@ a:hover,
 }
 .read-more-link {
   font-weight: 600;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
   font-size: 0.9375rem;
 }
 .read-more-link i {
@@ -14166,7 +14166,7 @@ a:hover,
   outline: none;
   box-shadow: none;
   padding: 6px 15px;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
   font-size: 0.875rem;
   font-weight: 500;
   background: #e2e8f0;
@@ -14619,7 +14619,7 @@ a:hover,
   display: inline-block;
   font-size: 15px;
   font-weight: 600;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
   color: #0b163f;
   border-radius: 6px 6px 0 0;
 }
@@ -14636,7 +14636,7 @@ a:hover,
   padding: 0.5rem 1.5rem;
   font-size: 14px;
   font-weight: 500;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
   color: #575757;
   margin-right: 15px;
   transition: all 0.3s ease-in-out;
@@ -14651,7 +14651,7 @@ a:hover,
 .feature-tab-list-2 li a.active {
   background: #0d1830;
   color: #fff;
-  border-color: #0d1830
+  border-color: #0d1830;
 }
 
 .feature-tab-list-2 li:last-child a {
@@ -14932,7 +14932,7 @@ a:hover,
 }
 
 .support-article-title {
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
   transition: all 0.3s ease-in-out;
 }
 
@@ -15280,7 +15280,7 @@ a:hover,
 }
 .article-category a {
   font-weight: 600;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
 }
 
 .avatar-name {
@@ -15424,7 +15424,7 @@ a:hover,
   font-size: 12px;
   letter-spacing: 0.2px;
   font-weight: 500;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
 }
 
 .connected-app-single {
@@ -15555,7 +15555,7 @@ label {
 .register-form label:not(.form-check-label) {
   font-size: 15px;
   font-weight: 500;
-  font-family: "DM Sans", sans-serif;
+  font-family: "Didact Gothic", sans-serif;
 }
 
 .form-check-label {
