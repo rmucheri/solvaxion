@@ -2862,8 +2862,8 @@ fieldset:disabled .btn {
 }
 
 .btn-primary {
-  color: #cf2027;
-  background-color: #cf2027;
+  color: #0d1830;
+  background-color: #0d1830;
   border-color: #0d1830;
 }
 .btn-primary:hover {
@@ -7935,7 +7935,7 @@ fieldset:disabled .btn {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #cf2027 !important;
+  color: #0d1830 !important;
 }
 
 .text-accent {
@@ -14649,9 +14649,9 @@ a:hover,
 }
 
 .feature-tab-list-2 li a.active {
-  background: #cf2027;
+  background: #0d1830;
   color: #fff;
-  border-color: #cf2027;
+  border-color: #0d1830
 }
 
 .feature-tab-list-2 li:last-child a {

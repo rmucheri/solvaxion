@@ -75,11 +75,11 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
                             Services
                           </Link>
                         </li>
-                        <li>
+                        {/* <li>
                           <Link to="/career" className="text-decoration-none">
                             Careers
                           </Link>
-                        </li>
+                        </li> */}
                         <li>
                           <Link
                             to="/contact-us"

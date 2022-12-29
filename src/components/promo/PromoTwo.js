@@ -79,7 +79,7 @@ const PromoTwo = () => {
               </div>
             </div>
           </div>
-          <div className="customer-section pt-60">
+          {/* <div className="customer-section pt-60">
             <div className="container">
               <div className="row justify-content-center">
                 <div className="col-lg-8 col-12">
@@ -139,7 +139,7 @@ const PromoTwo = () => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
     </>
