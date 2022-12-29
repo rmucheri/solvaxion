@@ -115,33 +115,24 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
                   </div>
                   <div className="col-md-4 col-lg-4 mt-4 mt-md-0 mt-lg-0">
                     <div className="footer-single-col">
-                      <h3>Template</h3>
+                      <h3>GET SOCIAL</h3>
                       <ul className="list-unstyled footer-nav-list mb-lg-0">
                         <li>
-                          <Link
-                            to="/contact-us"
-                            className="text-decoration-none"
-                          >
-                            Contact
+                          <Link to="/" className="text-decoration-none">
+                            Facebook
                           </Link>
                         </li>
                         <li>
-                          <Link
-                            to="/help-center"
-                            className="text-decoration-none"
-                          >
-                            Support
+                          <Link to="/" className="text-decoration-none">
+                            LinkedIn
                           </Link>
                         </li>
                         <li>
-                          <Link
-                            to="/help-center-single"
-                            className="text-decoration-none"
-                          >
-                            Support Single
+                          <Link to="/" className="text-decoration-none">
+                            Github
                           </Link>
                         </li>
-                        <li>
+                        {/* <li>
                           <Link
                             to="/coming-soon"
                             className="text-decoration-none"
@@ -161,7 +152,7 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
                           >
                             Career Single
                           </Link>
-                        </li>
+                        </li> */}
                       </ul>
                     </div>
                   </div>
@@ -191,11 +182,6 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
                     <li className="list-inline-item">
                       <Link to="/#">
                         <i className="fab fa-facebook-f"></i>
-                      </Link>
-                    </li>
-                    <li className="list-inline-item">
-                      <Link to="/#">
-                        <i className="fab fa-instagram"></i>
                       </Link>
                     </li>
                     <li className="list-inline-item">

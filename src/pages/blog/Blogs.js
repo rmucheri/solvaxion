@@ -1,19 +1,19 @@
-import React from 'react';
-import BlogGrid from '../../components/blog/BlogGrid';
-import PageHeader from '../../components/common/PageHeader';
-import PageMeta from '../../components/common/PageMeta';
-import FooterOne from '../../layout/Footer/FooterOne';
-import Navbar from '../../layout/Header/Navbar';
-import Layout from '../../layout/Layout';
+import React from "react";
+import BlogGrid from "../../components/blog/BlogGrid";
+import PageHeader from "../../components/common/PageHeader";
+import PageMeta from "../../components/common/PageMeta";
+import FooterOne from "../../layout/Footer/FooterOne";
+import Navbar from "../../layout/Header/Navbar";
+import Layout from "../../layout/Layout";
 
 const Blogs = () => {
   return (
     <Layout>
-      <PageMeta title="Welcome Our Blog- Software &amp; IT Solutions HTML Templat" />
+      <PageMeta title="Solvaxion - Saas Solutions -" />
       <Navbar navDark />
       <PageHeader
         title="Our Latest News and Blogs"
-        desc="Completely integrate equity invested partnerships without revolutionary systems. Monotonectally network pandemic e-services via bricks-and-clicks information."
+        desc="Stay Up-to-Date with the Latest Industry Insights and Company Updates"
         blogtags
       />
       <BlogGrid />
