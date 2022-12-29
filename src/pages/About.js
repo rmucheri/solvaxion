@@ -18,7 +18,7 @@ const About = () => {
       <AboutPageHero />
       {/* <OurStory /> */}
       <FeatureImgThree />
-      <Team />
+      {/* <Team /> */}
       {/* <TestimonialTwo /> */}
       <CtaTwo />
       <FooterOne footerLight />
