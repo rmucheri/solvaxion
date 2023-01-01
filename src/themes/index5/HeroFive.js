@@ -7,10 +7,10 @@ const HeroFive = () => {
     <>
       <section
         className="hero-section ptb-120 min-vh-100 d-flex align-items-center bg-dark text-white position-relative overflow-hidden"
-        style={{
-          background:
-            "url('assets/img/page-header-bg.svg')no-repeat bottom right",
-        }}
+        // style={{
+        //   background:
+        //     "url('assets/img/page-header-bg.svg')no-repeat bottom right",
+        // }}
       >
         <div className="container">
           <div className="row justify-content-between align-items-center">
@@ -31,6 +31,7 @@ const HeroFive = () => {
                   </Link> */}
                 </div>
               </div>
+
               <div className="row justify-content-lg-start mt-60">
                 <h6 className="text-white-70 mb-2">Our Top Clients:</h6>
                 <div className="col-4 col-sm-3 my-2 ps-lg-0">
@@ -56,6 +57,7 @@ const HeroFive = () => {
                 </div>
               </div>
             </div>
+
             <div className="col-lg-6 col-md-8 mt-5 mt-lg-0">
               <div className="animated-img-wrap">
                 {/* <!--animated shape start--> */}
