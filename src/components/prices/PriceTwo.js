@@ -8,9 +8,9 @@ const PriceTwo = () => {
     <>
       <section
         className='pricing-section position-relative overflow-hidden bg-dark text-white pt-120'
-        style={{
-          background: "url('img/page-header-bg.svg')no-repeat center center",
-        }}
+        // style={{
+        //   background: "url('img/page-header-bg.svg')no-repeat center center",
+        // }}
       >
         <div className='container'>
           <div className='row justify-content-center'>

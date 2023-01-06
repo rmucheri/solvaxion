@@ -6,10 +6,10 @@ const ComingSoonScreen = () => {
     <>
       <section
         className='coming-soon-section min-vh-100 ptb-120 overflow-hidden position-relative w-100 d-flex flex-column justify-content-center'
-        style={{
-          background:
-            "url('assets/img/page-header-bg.svg')no-repeat bottom right",
-        }}
+        // style={{
+        //   background:
+        //     "url('assets/img/page-header-bg.svg')no-repeat bottom right",
+        // }}
       >
         <div className='bg-dark fixed-bg'></div>
         <div className='container'>

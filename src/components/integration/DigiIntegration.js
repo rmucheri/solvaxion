@@ -19,10 +19,10 @@ export default function DigiIntegration() {
   return (
     <section
       className="digi-integration bg-dark position-relative"
-      style={{
-        background:
-          "url('assets/img/page-header-bg.svg')no-repeat center bottom",
-      }}
+      // style={{
+      //   background:
+      //     "url('assets/img/page-header-bg.svg')no-repeat center bottom",
+      // }}
     >
       <div className="digi-testimonial">
         <div className="container">

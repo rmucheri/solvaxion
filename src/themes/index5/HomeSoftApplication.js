@@ -32,10 +32,10 @@ const HomeSoftApplication = () => {
       <IntegrationTwo />
       <LatestBlogTwo /> */}
       <FooterOne
-        style={{
-          background:
-            "url('assets/img/page-header-bg.svg')no-repeat bottom right",
-        }}
+        // style={{
+        //   background:
+        //     "url('assets/img/page-header-bg.svg')no-repeat bottom right",
+        // }}
       />
     </Layout>
   );

@@ -6,10 +6,10 @@ const NotFoundScreen = () => {
     <>
       <section
         className='error-section ptb-120 bg-dark min-vh-100 w-100 d-flex flex-column justify-content-center'
-        style={{
-          background:
-            "url('assets/img/page-header-bg.svg')no-repeat bottom right",
-        }}
+        // style={{
+        //   background:
+        //     "url('assets/img/page-header-bg.svg')no-repeat bottom right",
+        // }}
       >
         <div className='container'>
           <div className='row align-items-center justify-content-center'>

@@ -4,9 +4,9 @@ const PortfolioPageHeader = () => {
   return (
     <section
       className="page-header position-relative overflow-hidden ptb-120 bg-dark"
-      style={{
-        background: "url('assets/img/page-header-bg.svg')no-repeat left bottom",
-      }}
+      // style={{
+      //   background: "url('assets/img/page-header-bg.svg')no-repeat left bottom",
+      // }}
     >
       <div className="container">
         <div className="row justify-content-center">

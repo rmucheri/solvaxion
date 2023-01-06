@@ -26,10 +26,10 @@ const HomeFourteen = () => {
       <DigiBlog />
       <DigiContact />
       <FooterOne
-        style={{
-          background:
-            "url('assets/img/page-header-bg.svg')no-repeat bottom left",
-        }}
+        // style={{
+        //   background:
+        //     "url('assets/img/page-header-bg.svg')no-repeat bottom left",
+        // }}
       />
     </Layout>
   );

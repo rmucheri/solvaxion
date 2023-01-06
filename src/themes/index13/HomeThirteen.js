@@ -23,10 +23,12 @@ const HomeThirteen = () => {
             <PaymentCounter />
             <PaymentTestimonial />
             <PaymentNewsletter />
-            <FooterOne style={{
-                background:
-                    "url('assets/img/page-header-bg.svg')no-repeat bottom right",
-            }} />
+            <FooterOne 
+            // style={{
+            //     background:
+            //         "url('assets/img/page-header-bg.svg')no-repeat bottom right",
+            // }} 
+            />
         </Layout>
     )
 }

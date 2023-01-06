@@ -7,10 +7,10 @@ const NewsLetter = () => {
         <div className='container'>
           <div
             className='bg-dark ptb-60 px-5 position-relative overflow-hidden rounded-custom'
-            style={{
-              background:
-                "url('assets/img/page-header-bg.svg')no-repeat center bottom",
-            }}
+            // style={{
+            //   background:
+            //     "url('assets/img/page-header-bg.svg')no-repeat center bottom",
+            // }}
           >
             <div className='row justify-content-center'>
               <div className='col-lg-8 col-md-9'>

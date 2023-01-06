@@ -13,10 +13,10 @@ const RequestDemo = () => {
       <Navbar navDark posAbsolute />
       <section
         className='sign-up-in-section bg-dark ptb-120'
-        style={{
-          background:
-            "url('assets/img/page-header-bg.svg')no-repeat bottom right",
-        }}
+        // style={{
+        //   background:
+        //     "url('assets/img/page-header-bg.svg')no-repeat bottom right",
+        // }}
       >
         <div className='container'>
           <div className='row align-items-center justify-content-between'>

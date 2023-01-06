@@ -6,10 +6,10 @@ const PasswordResetScreen = () => {
     <>
       <section
         className='sign-up-in-section bg-dark ptb-60'
-        style={{
-          background:
-            "url('assets/img/page-header-bg.svg')no-repeat right bottom",
-        }}
+        // style={{
+        //   background:
+        //     "url('assets/img/page-header-bg.svg')no-repeat right bottom",
+        // }}
       >
         <div className='container'>
           <div className='row align-items-center justify-content-center'>

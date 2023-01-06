@@ -71,6 +71,7 @@ const FeatureTwo = ({ cardDark }) => {
                     </p>
                   </div>
                 </div>
+
                 <div
                   className={`feature-card shadow-sm rounded-custom p-5 ${
                     cardDark
@@ -113,6 +114,7 @@ const FeatureTwo = ({ cardDark }) => {
                     View Details <i className="far fa-arrow-right"></i>
                   </Link> */}
                 </div>
+                
                 <div
                   className={`feature-card shadow-sm rounded-custom p-5 ${
                     cardDark

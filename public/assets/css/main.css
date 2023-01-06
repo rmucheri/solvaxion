@@ -12888,7 +12888,9 @@ dd {
   }
 }
 .bg-light {
-  background-color: #f8f9fa !important;
+  /* background-color: #f8f9fa !important; */
+  background: rgb(244,227,255);
+  background: linear-gradient(90deg, rgba(244,227,255,1) 0%, rgba(255,231,231,1) 50%, rgba(255,226,226,1) 100%);
 }
 
 .bg-primary-soft {

@@ -6,10 +6,10 @@ const AboutPageHero = () => {
     <>
       <section
         className="about-header-section ptb-120 position-relative overflow-hidden bg-dark"
-        style={{
-          background:
-            "url('assets/img/page-header-bg.svg')no-repeat center right",
-        }}
+        // style={{
+        //   background:
+        //     "url('assets/img/page-header-bg.svg')no-repeat center right",
+        // }}
       >
         <div className="container">
           <div className="row">
