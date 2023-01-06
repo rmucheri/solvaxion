@@ -6,9 +6,11 @@ const FeatureTwo = ({ cardDark }) => {
   return (
     <>
       <section
-        className={`feature-section ptb-120 ${
-          cardDark ? "bg-dark" : "bg-light"
-        }`}
+        className={`feature-section ptb-120 
+        
+          `}
+
+          // ${cardDark ? "bg-dark" : "bg-light"}
       >
         <div className="container">
           <div className="row justify-content-center">
@@ -35,11 +37,10 @@ const FeatureTwo = ({ cardDark }) => {
             <div className="col-12">
               <div className="feature-grid">
                 <div
-                  className={`shadow-sm rounded-custom p-5 ${
-                    cardDark
+                  className={`shadow-sm rounded-custom p-5 ${cardDark
                       ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
                       : "bg-white"
-                  }`}
+                    }`}
                   data-aos="fade-up"
                   data-aos-delay="50"
                 >
@@ -73,11 +74,10 @@ const FeatureTwo = ({ cardDark }) => {
                 </div>
 
                 <div
-                  className={`feature-card shadow-sm rounded-custom p-5 ${
-                    cardDark
+                  className={`feature-card shadow-sm rounded-custom p-5 ${cardDark
                       ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
                       : "bg-white"
-                  }`}
+                    }`}
                   data-aos="fade-up"
                   data-aos-delay="50"
                 >
@@ -114,13 +114,12 @@ const FeatureTwo = ({ cardDark }) => {
                     View Details <i className="far fa-arrow-right"></i>
                   </Link> */}
                 </div>
-                
+
                 <div
-                  className={`feature-card shadow-sm rounded-custom p-5 ${
-                    cardDark
+                  className={`feature-card shadow-sm rounded-custom p-5 ${cardDark
                       ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
                       : "bg-white"
-                  }`}
+                    }`}
                   data-aos="fade-up"
                   data-aos-delay="50"
                 >
@@ -160,11 +159,10 @@ const FeatureTwo = ({ cardDark }) => {
                 </div>
 
                 <div
-                  className={`feature-card shadow-sm rounded-custom p-5 ${
-                    cardDark
+                  className={`feature-card shadow-sm rounded-custom p-5 ${cardDark
                       ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
                       : "bg-white"
-                  }`}
+                    }`}
                   data-aos="fade-up"
                   data-aos-delay="50"
                 >
@@ -200,6 +198,49 @@ const FeatureTwo = ({ cardDark }) => {
                     View Details <i className="far fa-arrow-right"></i>
                   </Link> */}
                 </div>
+
+                <div
+                  className={`feature-card shadow-sm rounded-custom p-5 ${cardDark
+                      ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
+                      : "bg-white"
+                    }`}
+                  data-aos="fade-up"
+                  data-aos-delay="50"
+                >
+                  <div
+                    className="
+                      icon-box
+                      d-inline-block
+                      rounded-circle
+                      bg-dark-soft
+                      mb-32
+                    "
+                  >
+                    <i className="fal fa-spell-check icon-sm text-dark"></i>
+                  </div>
+                  <div className="feature-content">
+                    <h3 className="h5">Proprietary SaaS Software Development</h3>
+                    <p className="mb-0">
+                      Solvaxion's proprietary SaaS (Software as a Service) software development
+                      team is dedicated to creating innovative, cloud-based solutions that help
+                      businesses streamline their operations and drive growth. Our team has a
+                      wealth of experience in developing SaaS software, and we have a deep
+                      understanding of the unique challenges and opportunities that come
+                      with this type of development. Whether you need to build a custom
+                      software solution from scratch or integrate with an existing
+                      SaaS platform, our team is ready to help. Our development process
+                      is designed to ensure that the end result meets your business needs
+                      and delivers a seamless user experience.
+                    </p>
+                  </div>
+                  {/* <Link
+                    to="/single-service"
+                    className="link-with-icon text-decoration-none mt-3"
+                  >
+                    View Details <i className="far fa-arrow-right"></i>
+                  </Link> */}
+                </div>
+
               </div>
             </div>
           </div>

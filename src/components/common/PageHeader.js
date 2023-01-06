@@ -7,10 +7,10 @@ const PageHeader = ({ title, desc, integration, blogtags }) => {
       {integration ? (
         <section
           className='page-header position-relative overflow-hidden ptb-120 bg-dark'
-          // style={{
-          //   background:
-          //     "url('assets/img/page-header-bg.svg')no-repeat bottom left",
-          // }}
+        // style={{
+        //   background:
+        //     "url('assets/img/page-header-bg.svg')no-repeat bottom left",
+        // }}
         >
           <div className='container'>
             <div className='row justify-content-between align-items-center'>
@@ -46,16 +46,15 @@ const PageHeader = ({ title, desc, integration, blogtags }) => {
       ) : (
         <section
           className='page-header position-relative overflow-hidden ptb-120 bg-dark'
-          // style={{
-          //   background:
-          //     "url('assets/img/page-header-bg.svg')no-repeat bottom left",
-          // }}
+        // style={{
+        //   background:
+        //     "url('assets/img/page-header-bg.svg')no-repeat bottom left",
+        // }}
         >
           <div className='container'>
             <div
-              className={`row ${
-                blogtags ? 'justify-content-center text-center' : ''
-              }`}
+              className={`row ${blogtags ? 'justify-content-center text-center' : ''
+                }`}
             >
               <div className='col-lg-8 col-md-12'>
                 <h1 className='display-5 fw-bold'>{title}</h1>
