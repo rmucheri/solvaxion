@@ -15,7 +15,7 @@ const HeroFive = () => {
         <div className="container">
           <div className="row justify-content-between align-items-center">
             <div className="col-lg-6">
-              <div className="hero-content-wrap">
+              <div className="hero-content-wrap" >
                 <HeroTitle
                   subtitle="Canadian Based SaaS Company"
                   title="Streamline Your Workflows with Solvaxion"
