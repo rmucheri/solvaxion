@@ -1,16 +1,16 @@
-import React from 'react';
+import React from "react";
 
 const ReviewTwo = ({ reqPage }) => {
   return (
     <>
-      <div className='col-xl-5 col-lg-5 col-md-12 order-1 order-lg-0'>
-        <div className='testimonial-tab-slider-wrap mt-5'>
+      <div className="col-xl-5 col-lg-5 col-md-12 order-1 order-lg-0">
+        <div className="testimonial-tab-slider-wrap mt-5">
           {reqPage ? (
-            <h1 className='fw-bold text-white display-5'>
+            <h1 className="fw-bold text-white display-5">
               Start Your Project with Us
             </h1>
           ) : (
-            <h2 className='text-white'>Start Your Project with Us</h2>
+            <h2 className="text-white">Start Your Project with Us</h2>
           )}
           <p>
             Whatever your goal or project size we will handel it utilize
@@ -18,10 +18,10 @@ const ReviewTwo = ({ reqPage }) => {
           </p>
           <hr />
           <div
-            className='tab-content testimonial-tab-content text-white-80'
-            id='pills-tabContent'
+            className="tab-content testimonial-tab-content text-white-80"
+            id="pills-tabContent"
           >
-            <div
+            {/* <div
               className='tab-pane fade show active'
               id='testimonial-tab-1'
               role='tabpanel'
@@ -38,13 +38,13 @@ const ReviewTwo = ({ reqPage }) => {
                 <span className='h6'>Veronica P. Byrd</span>
                 <span className='d-block small'>Veterinary technician</span>
               </div>
-            </div>
+            </div> */}
             <div
-              className='tab-pane fade'
-              id='testimonial-tab-2'
-              role='tabpanel'
+              className="tab-pane fade"
+              id="testimonial-tab-2"
+              role="tabpanel"
             >
-              <blockquote className='blockquote'>
+              <blockquote className="blockquote">
                 <em>
                   "Synergistically evisculate market positioning technology
                   vis-a-vis team driven innovation. Phosfluorescently morph
@@ -53,17 +53,17 @@ const ReviewTwo = ({ reqPage }) => {
                   models. "
                 </em>
               </blockquote>
-              <div className='author-info mt-3'>
-                <span className='h6'>Raymond H. Gilbert</span>
-                <span className='d-block small'>Forest fire inspector</span>
+              <div className="author-info mt-3">
+                <span className="h6">Raymond H. Gilbert</span>
+                <span className="d-block small">Forest fire inspector</span>
               </div>
             </div>
             <div
-              className='tab-pane fade'
-              id='testimonial-tab-3'
-              role='tabpanel'
+              className="tab-pane fade"
+              id="testimonial-tab-3"
+              role="tabpanel"
             >
-              <blockquote className='blockquote'>
+              <blockquote className="blockquote">
                 <em>
                   "Professionally myocardinate corporate e-commerce through
                   alternative functionalities. Compellingly matrix distributed
@@ -71,65 +71,65 @@ const ReviewTwo = ({ reqPage }) => {
                   interactive opportunities through parallel innovation. "
                 </em>
               </blockquote>
-              <div className='author-info mt-3'>
-                <span className='h6'>Donna R. Book</span>
-                <span className='d-block small'>Extractive engineer</span>
+              <div className="author-info mt-3">
+                <span className="h6">Donna R. Book</span>
+                <span className="d-block small">Extractive engineer</span>
               </div>
             </div>
           </div>
           <ul
-            className='nav nav-pills mb-0 testimonial-tab-indicator mt-5'
-            id='pills-tab'
-            role='tablist'
+            className="nav nav-pills mb-0 testimonial-tab-indicator mt-5"
+            id="pills-tab"
+            role="tablist"
           >
-            <li className='nav-item' role='presentation'>
+            <li className="nav-item" role="presentation">
               <button
-                className='nav-link active'
-                data-bs-toggle='pill'
-                data-bs-target='#testimonial-tab-1'
-                type='button'
-                role='tab'
-                aria-selected='true'
+                className="nav-link active"
+                data-bs-toggle="pill"
+                data-bs-target="#testimonial-tab-1"
+                type="button"
+                role="tab"
+                aria-selected="true"
               >
                 <img
-                  src='assets/img/testimonial/1.jpg'
-                  alt='testimonial'
-                  width='55'
-                  className='img-fluid rounded-circle'
+                  src="assets/img/testimonial/1.jpg"
+                  alt="testimonial"
+                  width="55"
+                  className="img-fluid rounded-circle"
                 />
               </button>
             </li>
-            <li className='nav-item' role='presentation'>
+            <li className="nav-item" role="presentation">
               <button
-                className='nav-link'
-                data-bs-toggle='pill'
-                data-bs-target='#testimonial-tab-2'
-                type='button'
-                role='tab'
-                aria-selected='false'
+                className="nav-link"
+                data-bs-toggle="pill"
+                data-bs-target="#testimonial-tab-2"
+                type="button"
+                role="tab"
+                aria-selected="false"
               >
                 <img
-                  src='assets/img/testimonial/4.jpg'
-                  alt='testimonial'
-                  width='55'
-                  className='img-fluid rounded-circle'
+                  src="assets/img/testimonial/4.jpg"
+                  alt="testimonial"
+                  width="55"
+                  className="img-fluid rounded-circle"
                 />
               </button>
             </li>
-            <li className='nav-item' role='presentation'>
+            <li className="nav-item" role="presentation">
               <button
-                className='nav-link'
-                data-bs-toggle='pill'
-                data-bs-target='#testimonial-tab-3'
-                type='button'
-                role='tab'
-                aria-selected='false'
+                className="nav-link"
+                data-bs-toggle="pill"
+                data-bs-target="#testimonial-tab-3"
+                type="button"
+                role="tab"
+                aria-selected="false"
               >
                 <img
-                  src='assets/img/testimonial/6.jpg'
-                  alt='testimonial'
-                  width='55'
-                  className='img-fluid rounded-circle'
+                  src="assets/img/testimonial/6.jpg"
+                  alt="testimonial"
+                  width="55"
+                  className="img-fluid rounded-circle"
                 />
               </button>
             </li>
