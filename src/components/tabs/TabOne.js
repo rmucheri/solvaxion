@@ -94,7 +94,7 @@ const TabOne = () => {
                       <img
                         src="assets/img/screen/widget-12.jpg"
                         alt="feature tab"
-                        className="img-fluid mt-4 mt-lg-0 mt-xl-0"
+                        className="img-fluid mt-4 mt-lg-0 mt-xl-0 rounded-custom"
                       />
                     </div>
                   </div>
@@ -105,7 +105,7 @@ const TabOne = () => {
                       <img
                         src="assets/img/screen/widget-8.jpg"
                         alt="feature tab"
-                        className="img-fluid mb-4 mb-lg-0 mb-xl-0"
+                        className="img-fluid mb-4 mb-lg-0 mb-xl-0 rounded-custom"
                       />
                     </div>
                     <div className="col-lg-5">
@@ -153,7 +153,7 @@ const TabOne = () => {
                       <img
                         src="assets/img/screen/widget-11.jpg"
                         alt="feature tab"
-                        className="img-fluid mt-4 mt-lg-0 mt-xl-0"
+                        className="img-fluid mt-4 mt-lg-0 mt-xl-0 rounded-custom"
                       />
                     </div>
                   </div>

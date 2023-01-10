@@ -95,11 +95,11 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
                     <div className="footer-single-col">
                       <h3>LINKS</h3>
                       <ul className="list-unstyled footer-nav-list mb-lg-0">
-                        <li>
+                        {/* <li>
                           <Link to="/blogs" className="text-decoration-none">
                             Blog
                           </Link>
-                        </li>
+                        </li> */}
                         <li>
                           <Link to="/#" className="text-decoration-none">
                             Privacy Policy

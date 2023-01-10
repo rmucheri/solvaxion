@@ -27,9 +27,7 @@ const WorkProcessFour = () => {
                 <h3 className="h5">Define the Project</h3>
                 <p className="mb-0">
                   The first step in completing a project is to clearly define
-                  the scope and objectives. This includes identifying the
-                  project's purpose, setting specific goals and milestones, and
-                  determining the resources and budget required.
+                  the scope and objectives.
                 </p>
               </div>
             </div>
@@ -43,8 +41,7 @@ const WorkProcessFour = () => {
                 <p className="mb-0">
                   Once the project has been defined, the next step is to create
                   a detailed plan outlining the steps needed to complete the
-                  project. This plan should include a timeline, a list of tasks,
-                  and the responsibilities of each team member.
+                  project.
                 </p>
               </div>
             </div>
@@ -57,9 +54,7 @@ const WorkProcessFour = () => {
                 <h3 className="h5">Execute the Plan</h3>
                 <p className="mb-0">
                   With a clear plan in place, the project team can begin
-                  executing the tasks and milestones outlined in the plan. This
-                  may involve coordinating with external vendors or
-                  stakeholders, as well as managing resources and budgets.
+                  executing the tasks and milestones outlined in the plan.
                 </p>
               </div>
             </div>
@@ -73,9 +68,6 @@ const WorkProcessFour = () => {
                 <p className="mb-0">
                   Once the project is complete, it's important to review the
                   results and assess whether the project met its objectives.
-                  Based on this review, the team can identify any areas for
-                  improvement and make adjustments to the process for future
-                  projects.
                 </p>
               </div>
             </div>

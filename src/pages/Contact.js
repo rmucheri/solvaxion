@@ -14,15 +14,15 @@ const Contact = () => {
       <Navbar navDark />
       <PageHeader
         title="Contact Us"
-        desc="Seamlessly actualize client-based users after out-of-the-box value data through frictionless expertise. Proactively coordinate quality quality vectors vis-a-vis supply chains. Quickly engage client-centric web services."
+        desc="Get in touch with us today we are ready to help you achieve success using technology"
       />
       <ContactBox />
       <ContactFormTwo />
       <FooterOne
-        // style={{
-        //   background:
-        //     "url('assets/img/page-header-bg.svg')no-repeat bottom right",
-        // }}
+      // style={{
+      //   background:
+      //     "url('assets/img/page-header-bg.svg')no-repeat bottom right",
+      // }}
       />
     </Layout>
   );

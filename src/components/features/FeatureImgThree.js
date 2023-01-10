@@ -35,7 +35,7 @@ const FeatureImgThree = ({ paddingTop }) => {
                   </li>
                   <li className="d-flex align-items-start mb-4">
                     <div className="icon-box bg-danger rounded me-4">
-                      <i className="fas fa-fa-bullseye text-white"></i>
+                      <i className="fas fa-bullseye text-white"></i>
                     </div>
                     <div className="icon-content">
                       <h3 className="h5">MISSION</h3>

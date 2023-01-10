@@ -15,11 +15,11 @@ const HeroFive = () => {
         <div className="container">
           <div className="row justify-content-between align-items-center">
             <div className="col-lg-6">
-              <div className="hero-content-wrap" >
+              <div className="hero-content-wrap">
                 <HeroTitle
-                  subtitle="Canadian Based SaaS Company"
+                  subtitle="A Canadian Based SaaS Company"
                   title="Streamline Your Workflows with Solvaxion"
-                  desc="Our cloud-based software helps Canadian businesses increase efficiency and productivity through integrations, customization options, and mobile accessibility."
+                  desc="Our cloud-based solutions help businesses increase efficiency and productivity through integrations, customization options, and mobile accessibility."
                 />
 
                 <div className="action-btns mt-5">
@@ -32,7 +32,7 @@ const HeroFive = () => {
                 </div>
               </div>
 
-              <div className="row justify-content-lg-start mt-60">
+              {/* <div className="row justify-content-lg-start mt-60">
                 <h6 className="text-white-70 mb-2">Our Top Clients:</h6>
                 <div className="col-4 col-sm-3 my-2 ps-lg-0">
                   <img
@@ -55,7 +55,7 @@ const HeroFive = () => {
                     className="img-fluid"
                   />
                 </div>
-              </div>
+              </div> */}
             </div>
 
             <div className="col-lg-6 col-md-8 mt-5 mt-lg-0">
