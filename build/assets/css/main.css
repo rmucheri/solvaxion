@@ -12892,11 +12892,11 @@ dd {
 }
 
 .bg-primary-soft {
-  background-color: rgba(23, 92, 255, 0.2);
+  background-color: rgba(236, 248, 255, 0.2);
 }
 
 .bg-primary-light {
-  background-color: rgba(23, 92, 255, 0.75);
+  background-color: rgba(221, 241, 255, 0.75);
 }
 
 .bg-primary {
@@ -12960,7 +12960,7 @@ dd {
 }
 
 .bg-danger-light {
-  background-color: rgba(242, 87, 103, 0.75);
+  background-color: rgba(242, 87, 103, 1);
 }
 
 .bg-danger {

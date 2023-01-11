@@ -64,7 +64,7 @@ const HeroFive = () => {
                 <ul className="animate-element parallax-element animated-hero-1">
                   <li className="layer" data-depth="0.02">
                     <img
-                      src="assets/img/screen/animated-screen-2.svg"
+                      src="assets/img/screen/hero11.svg"
                       alt="shape"
                       className="img-fluid position-absolute type-0"
                     />
@@ -72,7 +72,7 @@ const HeroFive = () => {
                 </ul>
                 {/* <!--animated shape end--> */}
                 <img
-                  src="assets/img/screen/animated-screen-1.svg"
+                  src="assets/img/screen/hero1.svg"
                   alt="shape"
                   className="position-relative img-fluid"
                 />
