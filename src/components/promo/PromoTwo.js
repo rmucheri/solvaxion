@@ -42,7 +42,7 @@ const PromoTwo = () => {
             <div className="col-lg-4 col-md-6">
               <div className="promo-single position-relative text-center bg-white custom-shadow rounded-custom p-5 mb-4">
                 <div className="promo-icon mb-32">
-                  <i className="fa fa-lock text - fa -3x"></i>
+                  <i className="fa fa-lock text primary fa-3x"></i>
                 </div>
                 <div className="promo-info">
                   <h3 className="h5">Security</h3>
@@ -59,7 +59,7 @@ const PromoTwo = () => {
             <div className="col-lg-4 col-md-6">
               <div className="promo-single position-relative text-center bg-white custom-shadow rounded-custom p-5 mb-4">
                 <div className="promo-icon mb-32">
-                  <i className="fa fa-smile text -fa-3x"></i>
+                  <i className="fa fa-smile-plus text primary fa-3x"></i>
                 </div>
                 <div className="promo-info">
                   <h3 className="h5">Ease of Use</h3>

@@ -40,7 +40,7 @@ const Navbar = ({ navDark }) => {
             >
               <img src={logo} alt="logo" className="img-fluid logo-white" />
               <img
-                src="assets/img/screen/solvx.svg"
+                src="assets/img/sol.png"
                 alt="logo"
                 className="img-fluid logo-color"
               />
