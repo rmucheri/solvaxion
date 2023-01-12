@@ -35,7 +35,7 @@ const ServicesList = () => {
                   data-aos-delay='50'
                 >
                   <img
-                    src='assets/img/dashboard-img.png'
+                    src='assets/img/service/webdev.png'
                     alt=''
                     className='img-fluid'
                   />
@@ -68,7 +68,7 @@ const ServicesList = () => {
               <div className='pr-lg-4 position-relative'>
                 <div className='bg-light text-center rounded-custom overflow-hidden p-5 mx-lg-auto'>
                   <img
-                    src='assets/img/dashboard-img-4.png'
+                    src='assets/img/service/tech.png'
                     alt=''
                     className='img-fluid rounded-custom shadow-sm'
                   />
@@ -105,7 +105,7 @@ const ServicesList = () => {
                   data-aos-delay='50'
                 >
                   <img
-                    src='assets/img/dashboard-img.png'
+                    src='assets/img/service/data.png'
                     alt=''
                     className='img-fluid'
                   />
@@ -137,7 +137,7 @@ const ServicesList = () => {
               <div className='pr-lg-4 position-relative'>
                 <div className='bg-light text-center rounded-custom overflow-hidden p-5 mx-lg-auto'>
                   <img
-                    src='assets/img/dashboard-img-4.png'
+                    src='assets/img/service/swd.png'
                     alt=''
                     className='img-fluid rounded-custom shadow-sm'
                   />
@@ -175,7 +175,7 @@ const ServicesList = () => {
                   data-aos-delay='50'
                 >
                   <img
-                    src='assets/img/dashboard-img.png'
+                    src='assets/img/service/saas.png'
                     alt=''
                     className='img-fluid'
                   />
