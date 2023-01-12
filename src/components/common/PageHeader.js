@@ -5,7 +5,7 @@ const PageHeader = ({ title, desc, integration, blogtags }) => {
   return (
     <>
       {integration ? (
-        <section
+        <section         style={{ paddingTop: "2em" }}
           className='page-header position-relative overflow-hidden ptb-120 bg-dark'
         // style={{
         //   background:

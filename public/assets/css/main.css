@@ -739,6 +739,7 @@ progress {
   padding-right: calc(var(--bs-gutter-x) / 2);
   padding-left: calc(var(--bs-gutter-x) / 2);
   margin-top: var(--bs-gutter-y);
+  margin-top: 2em;
 }
 
 .col {
@@ -14827,7 +14828,7 @@ h4 {
   height: 36px;
   line-height: 32px;
   text-align: center;
-  border: 2px solid #0d1830;
+  /* border: 2px solid #0d1830; */
   color: #0d1830;
   border-radius: 2px;
   transition: all 0.3s ease-in-out;

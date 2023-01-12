@@ -8,7 +8,7 @@ const FeatureTwo = ({ cardDark }) => {
       <section
         className={`feature-section ptb-120 `}
 
-        // ${cardDark ? "bg-dark" : "bg-light"}
+      // ${cardDark ? "bg-dark" : "bg-light"}
       >
         <div className="container">
           <div className="row justify-content-center">
@@ -35,11 +35,10 @@ const FeatureTwo = ({ cardDark }) => {
             <div className="col-12">
               <div className="feature-grid">
                 <div
-                  className={`shadow-sm rounded-custom p-5 ${
-                    cardDark
-                      ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
-                      : "bg-white"
-                  }`}
+                  className={`shadow-sm rounded-custom p-5 ${cardDark
+                    ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
+                    : "bg-white"
+                    }`}
                   data-aos="fade-up"
                   data-aos-delay="50"
                 >
@@ -67,11 +66,10 @@ const FeatureTwo = ({ cardDark }) => {
                 </div>
 
                 <div
-                  className={`feature-card shadow-sm rounded-custom p-5 ${
-                    cardDark
-                      ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
-                      : "bg-white"
-                  }`}
+                  className={`feature-card shadow-sm rounded-custom p-5 ${cardDark
+                    ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
+                    : "bg-white"
+                    }`}
                   data-aos="fade-up"
                   data-aos-delay="50"
                 >
@@ -105,11 +103,10 @@ const FeatureTwo = ({ cardDark }) => {
                 </div>
 
                 <div
-                  className={`feature-card shadow-sm rounded-custom p-5 ${
-                    cardDark
-                      ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
-                      : "bg-white"
-                  }`}
+                  className={`feature-card shadow-sm rounded-custom p-5 ${cardDark
+                    ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
+                    : "bg-white"
+                    }`}
                   data-aos="fade-up"
                   data-aos-delay="50"
                 >
@@ -143,11 +140,10 @@ const FeatureTwo = ({ cardDark }) => {
                 </div>
 
                 <div
-                  className={`feature-card shadow-sm rounded-custom p-5 ${
-                    cardDark
-                      ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
-                      : "bg-white"
-                  }`}
+                  className={`feature-card shadow-sm rounded-custom p-5 ${cardDark
+                    ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
+                    : "bg-white"
+                    }`}
                   data-aos="fade-up"
                   data-aos-delay="50"
                 >
@@ -180,11 +176,10 @@ const FeatureTwo = ({ cardDark }) => {
                 </div>
 
                 <div
-                  className={`feature-card shadow-sm rounded-custom p-5 ${
-                    cardDark
-                      ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
-                      : "bg-white"
-                  }`}
+                  className={`feature-card shadow-sm rounded-custom p-5 ${cardDark
+                    ? "bg-custom-light promo-border-hover border border-2 border-light text-white"
+                    : "bg-white"
+                    }`}
                   data-aos="fade-up"
                   data-aos-delay="50"
                 >
