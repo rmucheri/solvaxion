@@ -12,7 +12,7 @@ const TabOne = () => {
             <div className="col-md-10 col-lg-6">
               <SectionTitle
                 subtitle="We speak SaaS"
-                title="Transform Your Work with Solvation's SaaS Solutions"
+                title="Transform Your Work with Solvaxion's SaaS Solutions"
                 description="Our Canadian-based company offers scalable, secure solutions that 
                 elp you streamline your workflows and drive success."
                 centerAlign
@@ -76,7 +76,7 @@ const TabOne = () => {
                         <p>
                           We offer integrations with other tools and platforms
                           to make it easier for users to connect their data and
-                          workflows. Solvation offers integrations with popular
+                          workflows. Solvaxion offers integrations with popular
                           tools and platforms in order to increase the value and
                           utility of our products. .{" "}
                         </p>

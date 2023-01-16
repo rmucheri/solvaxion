@@ -9,7 +9,7 @@ const PromoTwo = () => {
           <div className="row justify-content-center">
             <div className="col-lg-6 col-md-10">
               <SectionTitle
-                title="Transform Your Work with Solvation's SaaS Solutions"
+                title="Transform Your Work with Solvaxion's SaaS Solutions"
                 description=" Our cloud-based software is designed to help Canadian 
                 businesses increase efficiency and productivity."
                 centerAlign
@@ -25,7 +25,7 @@ const PromoTwo = () => {
                 <div className="promo-info">
                   <h3 className="h5">Scalability</h3>
                   <p className="mb-0">
-                    As a Canadian SaaS company, Solvation is be able to handle a
+                    As a Canadian SaaS company, Solvaxion is be able to handle a
                     large number of users and a high volume of data without
                     experiencing performance issues or downtime. This is
                     particularly important as the company grows and serves a
@@ -47,7 +47,7 @@ const PromoTwo = () => {
                 <div className="promo-info">
                   <h3 className="h5">Security</h3>
                   <p className="mb-0">
-                    Given the sensitive nature of the data that Solvation
+                    Given the sensitive nature of the data that Solvaxion
                     handles, security is a top priority. Features such as data
                     encryption, secure login protocols, and regular security
                     updates help protect customer data and maintain trust in the
@@ -64,7 +64,7 @@ const PromoTwo = () => {
                 <div className="promo-info">
                   <h3 className="h5">Ease of Use</h3>
                   <p className="mb-0">
-                    Solvation's products are easy to use, so that users can get
+                    Solvaxion's products are easy to use, so that users can get
                     up and running quickly and efficiently. This includes
                     user-friendly interfaces, helpful documentation and
                     tutorials, and strong customer support to ensure a seamless
