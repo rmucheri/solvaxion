@@ -11,7 +11,7 @@ const TabOne = () => {
           <div className="row justify-content-center align-content-center">
             <div className="col-md-10 col-lg-6">
               <SectionTitle
-                subtitle="We speak SaaS"
+                subtitle=""
                 title="Transform Your Work with Solvaxion's SaaS Solutions"
                 description="Our Canadian-based company offers scalable, secure solutions that 
                 elp you streamline your workflows and drive success."

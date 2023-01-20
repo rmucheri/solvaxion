@@ -10,8 +10,10 @@ const TechTab = () => {
             <div className="text-center">
               <h2>We Build any Kind Of Technology</h2>
               <p>
-                Credibly grow premier ideas rather than bricks-and-clicks
-                strategic theme areas distributed for stand-alone web-readiness.
+                We deliver custom technology solutions that meet the unique
+                needs of our clients, using a team of experts who can build any
+                kind of technology, such as websites, mobile apps and other
+                digital solutions.
               </p>
             </div>
           </div>
@@ -95,27 +97,26 @@ const TechTab = () => {
                   <div className="col-md-6">
                     <div className="tab-right-content">
                       <h2>
-                        We are working with <br />
-                        15 years exprience
+                        Unleash the Power of a Stunning, <br />
+                        <small>User-Friendly and SEO-Optimized Website</small>
                       </h2>
                       <p>
-                        Continually network effective bandwidth whereas
-                        goal-oriented schemas. Intrinsicly incentivize corporate
-                        synergy with accurate task bricks-and-clicks leadership
-                        skills.
+                        We can create responsive, user-friendly and visually
+                        appealing websites that are optimized for search engines
+                        and provide a seamless user experience.
                       </p>
                       <ul className="list-unstyled">
                         <li>
-                          <i className="fas fa-check text-primary"></i>
-                          <span>Digital Conferance</span>
+                          <i className="fas fa-check text-warning"></i>
+                          <span>Creative Designs</span>
                         </li>
                         <li>
-                          <i className="fas fa-check text-primary"></i>
-                          <span>Great Speak</span>
+                          <i className="fas fa-check text-warning"></i>
+                          <span>Personalized Service</span>
                         </li>
                         <li>
-                          <i className="fas fa-check text-primary"></i>
-                          <span>Event Mangement</span>
+                          <i className="fas fa-check text-warning"></i>
+                          <span>Timely Delivery</span>
                         </li>
                       </ul>
                       <Link
@@ -149,12 +150,14 @@ const TechTab = () => {
                   </div>
                   <div className="col-md-6">
                     <div className="tab-right-content">
-                      <h2>Automation Power</h2>
+                      <h2>
+                        Transform Your Business with Tailored <br />
+                        <small>Mobile App Development for Any Platform</small>
+                      </h2>
                       <p>
-                        Continually network effective bandwidth whereas
-                        goal-oriented schemas. Intrinsicly incentivize corporate
-                        synergy with accurate task bricks-and-clicks leadership
-                        skills.
+                        We can design and develop mobile apps that are tailored
+                        to your business needs, whether it's for iOS, Android or
+                        any other platform.
                       </p>
                       <ul className="list-unstyled">
                         <li>
@@ -201,12 +204,13 @@ const TechTab = () => {
                   </div>
                   <div className="col-md-6">
                     <div className="tab-right-content">
-                      <h2>Advanced Technology</h2>
+                      <h2>
+                        Experience the Magic of a Stunning UI <br />
+                        <small>and Intuitive UX Design</small> 
+                      </h2>
                       <p>
-                        Continually network effective bandwidth whereas
-                        goal-oriented schemas. Intrinsicly incentivize corporate
-                        synergy with accurate task bricks-and-clicks leadership
-                        skills.
+                        We can create visually stunning user interfaces and
+                        provide an intuitive user experience for your customers.
                       </p>
                       <ul className="list-unstyled">
                         <li>

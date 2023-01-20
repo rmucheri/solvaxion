@@ -17,14 +17,14 @@ const HeroFive = () => {
             <div className="col-lg-6">
               <div className="hero-content-wrap">
                 <HeroTitle
-                  subtitle="A Canadian Based SaaS Company"
-                  title="Streamline Your Workflows with Solvaxion"
-                  desc="Our cloud-based solutions help businesses increase efficiency and productivity through integrations, customization options, and mobile accessibility."
+                  subtitle="Welcome to Solvaxion"
+                  title="Your go-to partner for innovative technology solutions"
+                  desc="We are a Canadian technology start-up that leverages leading technologies to provide tailored solutions for small and medium-sized businesses. Our approach is rooted in design thinking, putting the customer at the forefront of everything we do to create solutions that truly meet their needs and drive success."
                 />
 
                 <div className="action-btns mt-5">
                   <Link to="/request-for-demo" className="btn btn-primary me-3">
-                    Request Demo
+                    Book Appointment
                   </Link>
                   {/* <Link to="/about-us" className="btn btn-outline-light">
                     Learn More

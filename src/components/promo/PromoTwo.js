@@ -9,7 +9,7 @@ const PromoTwo = () => {
           <div className="row justify-content-center">
             <div className="col-lg-6 col-md-10">
               <SectionTitle
-                title="Transform Your Work with Solvaxion's SaaS Solutions"
+                title="Transform Your Business with Solvaxion"
                 description=" Our cloud-based software is designed to help Canadian 
                 businesses increase efficiency and productivity."
                 centerAlign
@@ -23,13 +23,12 @@ const PromoTwo = () => {
                   <i className="fa fa-line-chart text primary fa-3x"></i>
                 </div>
                 <div className="promo-info">
-                  <h3 className="h5">Scalability</h3>
+                  <h3 className="h5">Customer-centric approach</h3>
                   <p className="mb-0">
-                    As a Canadian SaaS company, Solvaxion is be able to handle a
-                    large number of users and a high volume of data without
-                    experiencing performance issues or downtime. This is
-                    particularly important as the company grows and serves a
-                    larger customer base.
+                    We use design thinking methodologies to understand the needs
+                    and perspectives of our clients and their end-users, which
+                    allows us to create solutions that truly meet their needs
+                    and drive business success
                   </p>
                 </div>
                 {/* <!--pattern start--> */}
@@ -45,13 +44,11 @@ const PromoTwo = () => {
                   <i className="fa fa-lock text primary fa-3x"></i>
                 </div>
                 <div className="promo-info">
-                  <h3 className="h5">Security</h3>
+                  <h3 className="h5">Commitment to Innovation</h3>
                   <p className="mb-0">
-                    Given the sensitive nature of the data that Solvaxion
-                    handles, security is a top priority. Features such as data
-                    encryption, secure login protocols, and regular security
-                    updates help protect customer data and maintain trust in the
-                    company.
+                    We stay current with the latest technologies and best
+                    practices to provide our clients with cutting-edge solutions
+                    that help them stay ahead of the curve.
                   </p>
                 </div>
               </div>
@@ -62,13 +59,12 @@ const PromoTwo = () => {
                   <i className="fa fa-smile-plus text primary fa-3x"></i>
                 </div>
                 <div className="promo-info">
-                  <h3 className="h5">Ease of Use</h3>
+                  <h3 className="h5">Expert Team</h3>
                   <p className="mb-0">
-                    Solvaxion's products are easy to use, so that users can get
-                    up and running quickly and efficiently. This includes
-                    user-friendly interfaces, helpful documentation and
-                    tutorials, and strong customer support to ensure a seamless
-                    experience for our customers.
+                    Our team of experts delivers high-quality, tailored
+                    solutions using the latest technologies. Collaboration and
+                    diverse skills ensure successful project completion,
+                    exceeding client expectations.
                   </p>
                 </div>
                 {/* <!--pattern start--> */}

@@ -9,8 +9,10 @@ import HeroFive from "./HeroFive";
 import IntegrationTwo from "../../components/integration/IntegrationTwo";
 import PromoTwo from "../../components/promo/PromoTwo";
 import TabOne from "../../components/tabs/TabOne";
+import TechTab from "../../components/tabs/TechTab";
 import TestimonialTwo from "../../components/testimonial/TestimonialTwo";
 import WorkProcessFour from "../../components/work-process/WorkProcessFour";
+import WorkProcess from "../../components/work-process/WorkProcess";
 import FooterOne from "../../layout/Footer/FooterOne";
 import Navbar from "../../layout/Header/Navbar";
 import Layout from "../../layout/Layout";
@@ -22,11 +24,13 @@ const HomeSoftApplication = () => {
       <Navbar />
       <HeroFive />
       <PromoTwo />
-      <TabOne />
+      {/* <TabOne /> */}
+      <TechTab />
       {/* <FeatureImgSix /> */}
       {/* <FeatureImgSeven /> */}
       {/* <CtaThree /> */}
-      <WorkProcessFour />
+      {/* <WorkProcessFour /> */}
+      <WorkProcess />
       {/* <TestimonialTwo />
       <CtaSubscribe />
       <IntegrationTwo />

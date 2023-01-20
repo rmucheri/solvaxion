@@ -9,11 +9,13 @@ const WorkProcessFour = () => {
             <div className="col-md-10 col-lg-6">
               <div className="section-heading text-center">
                 <h4 className="h5 text-primary">Process</h4>
-                <h2>Streamline Your Work Process.</h2>
+                <h2>Our Approach.</h2>
                 <p>
-                  Our four-step method ensures that projects are completed on
-                  time, within budget, and with the desired results. Find out
-                  how it can work for you{" "}
+                  At Solvaxion, we understand that delivering technology
+                  solutions can be a complex process. That's why we've developed
+                  a four-step process that ensures that every project is
+                  completed on time, within budget, and to the highest standards
+                  of quality.
                 </p>
               </div>
             </div>
@@ -24,10 +26,10 @@ const WorkProcessFour = () => {
                 <div className="process-icon border border-light bg-custom-light rounded-custom p-3">
                   <span className="h2 mb-0 text-primary fw-bold">1</span>
                 </div>
-                <h3 className="h5">Define the Project</h3>
+                <h3 className="h5">Discovery</h3>
                 <p className="mb-0">
-                  The first step in completing a project is to clearly define
-                  the scope and objectives.
+                  We work closely with clients to understand their unique needs
+                  and goals.
                 </p>
               </div>
             </div>
@@ -37,11 +39,10 @@ const WorkProcessFour = () => {
                 <div className="process-icon border border-light bg-custom-light rounded-custom p-3">
                   <span className="h2 mb-0 text-primary fw-bold">2</span>
                 </div>
-                <h3 className="h5">Develop a Plan</h3>
+                <h3 className="h5">Design</h3>
                 <p className="mb-0">
-                  Once the project has been defined, the next step is to create
-                  a detailed plan outlining the steps needed to complete the
-                  project.
+                  We create detailed design documents outlining the solution's
+                  functionality and user experience.
                 </p>
               </div>
             </div>
@@ -51,10 +52,10 @@ const WorkProcessFour = () => {
                 <div className="process-icon border border-light bg-custom-light rounded-custom p-3">
                   <span className="h2 mb-0 text-primary fw-bold">3</span>
                 </div>
-                <h3 className="h5">Execute the Plan</h3>
+                <h3 className="h5">Development</h3>
                 <p className="mb-0">
-                  With a clear plan in place, the project team can begin
-                  executing the tasks and milestones outlined in the plan.
+                  Our team of developers brings the solution to life using the
+                  latest technologies.
                 </p>
               </div>
             </div>
@@ -64,10 +65,10 @@ const WorkProcessFour = () => {
                 <div className="process-icon border border-light bg-custom-light rounded-custom p-3">
                   <span className="h2 mb-0 text-primary fw-bold">4</span>
                 </div>
-                <h3 className="h5">Review and Refine</h3>
+                <h3 className="h5">Deployment and Support</h3>
                 <p className="mb-0">
-                  Once the project is complete, it's important to review the
-                  results and assess whether the project met its objectives.
+                  We deploy the solution and provide training and ongoing
+                  support to ensure success.
                 </p>
               </div>
             </div>
