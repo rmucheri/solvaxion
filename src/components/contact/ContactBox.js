@@ -13,7 +13,7 @@ const ContactBox = () => {
                   <h5>Schedule A Call</h5>
                   <p>We are waiting to help you with your project </p>
                 </div>
-                <a href="/contactus" className="btn btn-primary mt-auto">
+                <a href="/request-for-demo" className="btn btn-primary mt-auto">
                   Schedule A Call
                 </a>
               </div>
