@@ -54,7 +54,7 @@ const AboutPageHero = () => {
             </div>
           </div>
         </div>
-        <div className="bg-white position-absolute bottom-0 h-25 bottom-0 left-0 right-0 z-2 py-5"></div>
+        {/* <div className="bg-white position-absolute bottom-0 h-25 bottom-0 left-0 right-0 z-2 py-5"></div> */}
       </section>
     </>
   );

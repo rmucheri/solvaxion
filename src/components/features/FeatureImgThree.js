@@ -13,37 +13,40 @@ const FeatureImgThree = ({ paddingTop }) => {
           <div className="row align-items-center justify-content-between">
             <div className="col-lg-5 col-md-12">
               <SectionTitle
-                subtitle="SOLVAXION"
-                title="Powerful Solutions for Your Business Needs"
-                description="Unleash the full potential of your business with our powerful solutions."
+                subtitle=""
+                title="Company Philosophy"
+                description="At Solvaxion, we provide technology solutions that fuel the growth and success of businesses."
               />
               <div>
                 <ul className="list-unstyled mt-5">
                   <li className="d-flex align-items-start mb-4">
                     <div className="icon-box bg-primary rounded me-4">
-                      <i className="fas fa-low-vision text-white"></i>
+                      {/* <i className="fas fa-low-vision text-white"></i> */}
+                      <i class="fa-sharp fa-solid fa-eye-low-vision text-white"></i>
                     </div>
                     <div className="icon-content">
                       <h3 className="h5">VISION</h3>
                       <p>
-                        Our vision at Solvaxion is to become the leading
-                        provider of innovative software-as-a-service (SaaS)
-                        solutions for small and medium-sized organizations
-                        globally.
+                        Our vision is to be the premier provider of technology
+                        solutions for small and medium-sized businesses,
+                        consistently exceeding customer expectations and
+                        creating positive impact through the use of innovative
+                        technology.
                       </p>
                     </div>
                   </li>
                   <li className="d-flex align-items-start mb-4">
                     <div className="icon-box bg-danger rounded me-4">
-                      <i className="fas fa-bullseye text-white"></i>
+                      {/* <i className="fas fa-bullseye text-white"></i> */}
+                      <i class="fa-sharp fa-solid fa-bullseye text-white"></i>
                     </div>
                     <div className="icon-content">
                       <h3 className="h5">MISSION</h3>
                       <p>
-                        Our mission at Solvaxion is to empower small and
-                        medium-sized organizations around the world to achieve
-                        their business goals through the use of innovative
-                        software-as-a-service (SaaS) solutions.
+                        At Solvaxion, we are dedicated to leveraging technology
+                        to provide innovative and tailored solutions for small
+                        and medium-sized businesses, empowering them to achieve
+                        their goals and drive success.
                       </p>
                     </div>
                   </li>
@@ -67,9 +70,7 @@ const FeatureImgThree = ({ paddingTop }) => {
                     data-aos-delay="100"
                   >
                     <i className="fas fa-check bg-primary text-white rounded-circle"></i>
-                    <h6 className="mb-0">
-                      Proprietary SaaS Software Development{" "}
-                    </h6>
+                    <h6 className="mb-0">Proprietary Software Development </h6>
                   </li>
                   <li
                     className="d-flex align-items-center bg-white rounded shadow-sm p-3"

@@ -6,15 +6,15 @@ const ReviewTwo = ({ reqPage }) => {
       <div className="col-xl-5 col-lg-5 col-md-12 order-1 order-lg-0">
         <div className="testimonial-tab-slider-wrap mt-5">
           {reqPage ? (
-            <h1 className="fw-bold text-white display-5">
-              Start Your Project with Us
-            </h1>
+            <h1 className="fw-bold display-5">Let's Chat About Your Project</h1>
           ) : (
             <h2 className="text-white">Start Your Project with Us</h2>
           )}
           <p>
-            Whatever your goal or project size we will handel it utilize
-            standards compliant. We hope you will be 100% satisfied.
+            We are excited to hear about your project and discuss how we can
+            help bring your ideas to life. At Solvaxion, we pride ourselves
+            on delivering high-quality services and building long-term
+            partnerships with our clients.
           </p>
           <hr />
           <div

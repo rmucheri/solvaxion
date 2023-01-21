@@ -28,12 +28,13 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
                     />
                   </div>
                   <p>
-                    Solvaxion is a Canadian technology start-up whose mission is
-                    to provide innovative technology solutions for small and
-                    medium sized organisations globally, by offering
-                    software-as-a-service (SaaS) solutions, custom software
-                    development, technology consulting, and web development
-                    services.
+                    A Canadian technology start-up that is dedicated to
+                    delivering <b>cutting-edge technology</b> solutions to
+                    organizations worldwide. We specialize in{" "}
+                    <b>custom software development</b>,{" "}
+                    <b>technology consulting</b>, and{" "}
+                    <b>web development services</b> that empower our clients to
+                    achieve their goals
                   </p>
 
                   <form className="newsletter-form position-relative d-block d-lg-flex d-md-flex">
@@ -118,19 +119,34 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
                       <h3>GET SOCIAL</h3>
                       <ul className="list-unstyled footer-nav-list mb-lg-0">
                         <li>
-                          <Link to="/" className="text-decoration-none">
+                          <a
+                            href="https://www.facebook.com/solvaxion/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-decoration-none"
+                          >
                             Facebook
-                          </Link>
+                          </a>
                         </li>
                         <li>
-                          <Link to="/" className="text-decoration-none">
+                          <a
+                            href="/#"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-decoration-none"
+                          >
                             LinkedIn
-                          </Link>
+                          </a>
                         </li>
                         <li>
-                          <Link to="/" className="text-decoration-none">
-                            Github
-                          </Link>
+                          <a
+                            href="https://www.instagram.com/solvaxion/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-decoration-none"
+                          >
+                            Instagram
+                          </a>
                         </li>
                         {/* <li>
                           <Link
@@ -172,7 +188,7 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
               <div className="col-md-7 col-lg-7">
                 <div className="copyright-text">
                   <p className="mb-lg-0 mb-md-0">
-                    &copy; 2022 Solvaxion | All Rights Reserved.
+                    &copy; 2023 Solvaxion | All Rights Reserved.
                   </p>
                 </div>
               </div>
@@ -180,19 +196,27 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
                 <div className="footer-single-col text-start text-lg-end text-md-end">
                   <ul className="list-unstyled list-inline footer-social-list mb-0">
                     <li className="list-inline-item">
-                      <Link to="/#">
+                      <a
+                        href="https://www.facebook.com/solvaxion/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         <i className="fab fa-facebook-f"></i>
-                      </Link>
+                      </a>
                     </li>
                     <li className="list-inline-item">
-                      <Link to="/#">
+                      <a href="/#" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-linkedin"></i>
-                      </Link>
+                      </a>
                     </li>
                     <li className="list-inline-item">
-                      <Link to="/#">
-                        <i className="fab fa-github"></i>
-                      </Link>
+                      <a
+                        href="https://www.instagram.com/solvaxion/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <i className="fab fa-instagram"></i>
+                      </a>
                     </li>
                   </ul>
                 </div>

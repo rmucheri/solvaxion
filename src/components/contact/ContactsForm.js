@@ -6,8 +6,9 @@ const ContactsForm = () => {
     <>
       <div className='col-xl-5 col-lg-7 col-md-12 order-0 order-lg-1'>
         <div className='register-wrap p-5 bg-white shadow rounded-custom mt-5 mt-lg-0 mt-xl-0'>
-          <h3 className='fw-medium h4'>
-            Fill out the form and we'll be in touch as soon as possible.
+          <h3 className='fw-medium h4 text-center'>
+            Get in touch! <br />
+            <small>We will get back to you as soon as possible.</small>
           </h3>
 
           <form action='#' className='mt-4 register-form'>
@@ -17,7 +18,7 @@ const ContactsForm = () => {
                   <input
                     type='text'
                     className='form-control'
-                    placeholder='Name'
+                    placeholder='Full Name'
                     aria-label='name'
                   />
                 </div>
@@ -382,7 +383,7 @@ const ContactsForm = () => {
                   type='submit'
                   className='btn btn-primary mt-4 d-block w-100'
                 >
-                  Get Started
+                  Send
                 </button>
               </div>
             </div>
