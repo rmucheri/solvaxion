@@ -51,7 +51,7 @@ const ContactsForm = () => {
     Budget: ${budget}
     Marketing Consent: ${marketingConsent}
     Message: ${message}`;
-      window.location.href = `mailto:info@solvaxion.com?body=${emailBody}`;
+      window.location.href = `mailto:info@solvaxion.com?subject=Request for Information&body=${emailBody}`;
       // reset the form fields after sending
       setName("");
       setEmail("");
