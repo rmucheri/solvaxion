@@ -84,7 +84,7 @@ const Navbar = ({ navDark }) => {
             </div>
 
             <div className="action-btns text-end me-5 me-lg-0 d-none d-md-block d-lg-block">
-              <Link to="/request-for-demo" className="btn btn-primary">
+              <Link to="/request-for-demo" className="btn btn-danger">
                 Start A Project
               </Link>
             </div>

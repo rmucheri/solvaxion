@@ -88,7 +88,8 @@ const TechTab = () => {
                   <div className="col-md-6">
                     <div className="text-center mb-5 mb-lg-0">
                       <img
-                        src="assets/img/tab_img1.png"
+                        src="assets/img/image7.png"
+                        // src="assets/img/tab_img1.png"
                         alt=""
                         className="img-fluid"
                       />
@@ -108,20 +109,20 @@ const TechTab = () => {
                       <ul className="list-unstyled">
                         <li>
                           <i className="fas fa-check text-warning"></i>
-                          <span>Creative Designs</span>
+                          <span>Stunning</span>
                         </li>
                         <li>
                           <i className="fas fa-check text-warning"></i>
-                          <span>Personalized Service</span>
+                          <span>User-Friendly</span>
                         </li>
                         <li>
                           <i className="fas fa-check text-warning"></i>
-                          <span>Timely Delivery</span>
+                          <span>SEO-Optimized</span>
                         </li>
                       </ul>
                       <Link
                         to="/about-us"
-                        className="text-white link-with-icon text-decoration-none mt-4"
+                        className="text-warning link-with-icon text-decoration-none mt-4"
                       >
                         Know More About Us
                         <i className="fas fa-arrow-right"></i>
@@ -142,7 +143,8 @@ const TechTab = () => {
                   <div className="col-md-6">
                     <div className="pe-5 mb-5 mb-lg-0">
                       <img
-                        src="assets/img/tab_img2.png"
+                        src="assets/img/image3.png"
+                        // src="assets/img/tab_img2.png"
                         alt=""
                         className="img-fluid"
                       />
@@ -161,21 +163,21 @@ const TechTab = () => {
                       </p>
                       <ul className="list-unstyled">
                         <li>
-                          <i className="fas fa-check text-primary"></i>
-                          <span>Digital Conferance</span>
+                          <i className="fas fa-check text-warning"></i>
+                          <span>Tailored</span>
                         </li>
                         <li>
-                          <i className="fas fa-check text-primary"></i>
-                          <span>Great Speak</span>
+                          <i className="fas fa-check text-warning"></i>
+                          <span>Mobile</span>
                         </li>
                         <li>
-                          <i className="fas fa-check text-primary"></i>
-                          <span>Event Mangement</span>
+                          <i className="fas fa-check text-warning"></i>
+                          <span>Platform-agnostic</span>
                         </li>
                       </ul>
                       <Link
                         to="/about-us"
-                        className="text-white link-with-icon text-decoration-none mt-4"
+                        className="text-warning link-with-icon text-decoration-none mt-4"
                       >
                         Know More About Us
                         <i className="fas fa-arrow-right"></i>
@@ -196,7 +198,8 @@ const TechTab = () => {
                   <div className="col-md-6">
                     <div className="mb-5 mb-lg-0">
                       <img
-                        src="assets/img/tab_img3.png"
+                        src="assets/img/image6.png"
+                        // src="assets/img/tab_img3.png"
                         alt=""
                         className="img-fluid"
                       />
@@ -206,7 +209,7 @@ const TechTab = () => {
                     <div className="tab-right-content">
                       <h2>
                         Experience the Magic of a Stunning UI <br />
-                        <small>and Intuitive UX Design</small> 
+                        <small>and Intuitive UX Design</small>
                       </h2>
                       <p>
                         We can create visually stunning user interfaces and
@@ -214,21 +217,21 @@ const TechTab = () => {
                       </p>
                       <ul className="list-unstyled">
                         <li>
-                          <i className="fas fa-check text-primary"></i>
-                          <span>Digital Conferance</span>
+                          <i className="fas fa-check text-warning"></i>
+                          <span>Stunning</span>
                         </li>
                         <li>
-                          <i className="fas fa-check text-primary"></i>
-                          <span>Great Speak</span>
+                          <i className="fas fa-check text-warning"></i>
+                          <span>Intuitive</span>
                         </li>
                         <li>
-                          <i className="fas fa-check text-primary"></i>
-                          <span>Event Mangement</span>
+                          <i className="fas fa-check text-warning"></i>
+                          <span>User-Centered</span>
                         </li>
                       </ul>
                       <Link
                         to="/about-us"
-                        className="text-white link-with-icon text-decoration-none mt-4"
+                        className="text-warning link-with-icon text-decoration-none mt-4"
                       >
                         Know More About Us
                         <i className="fas fa-arrow-right"></i>
