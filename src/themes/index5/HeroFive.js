@@ -23,7 +23,7 @@ const HeroFive = () => {
                 />
 
                 <div className="action-btns mt-5">
-                  <Link to="/request-for-demo" className="btn btn-primary me-3">
+                  <Link to="/request-for-demo" className="btn btn-danger me-3">
                     Book Appointment
                   </Link>
                   {/* <Link to="/about-us" className="btn btn-outline-light">
@@ -64,7 +64,8 @@ const HeroFive = () => {
                 <ul className="animate-element parallax-element animated-hero-1">
                   <li className="layer" data-depth="0.02">
                     <img
-                      src="assets/img/screen/hero11.svg"
+                      // src="assets/img/Website Images/Licensed/AdobeStock_168425228.jpeg"
+                      // src="assets/img/screen/hero11.svg"
                       alt="shape"
                       className="img-fluid position-absolute type-0"
                     />
@@ -72,7 +73,8 @@ const HeroFive = () => {
                 </ul>
                 {/* <!--animated shape end--> */}
                 <img
-                  src="assets/img/screen/hero1.svg"
+                  src="assets/img/Website Images/Licensed/AdobeStock_168425228.jpeg"
+                  // src="assets/img/screen/hero11.svg"
                   alt="shape"
                   className="position-relative img-fluid"
                 />

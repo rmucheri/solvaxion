@@ -23,7 +23,7 @@ const AboutPageHero = () => {
                     <p className="lead">
                       Solvaxion is a Canadian technology start-up whose mission
                       is to provide innovative technology solutions for small
-                      and medium sized organisations globally.
+                      and medium sized organizations globally.
                     </p>
                     {/* <Link to="/services" className="btn btn-primary mt-4 me-3">
                       What We Do Best

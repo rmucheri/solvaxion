@@ -20,7 +20,10 @@ const WorkProcess = () => {
             <div className="col-lg-5 col-md-12 order-1 order-lg-0">
               <div className="img-wrap">
                 <img
-                  src="assets/img/office-img-1.jpg"
+                  // src="assets/img/test1.jpg"
+                  src="assets/img/test2.jpg"
+                  // src="assets/img/office-img-1.jpg"
+                  // src="assets/img/AdobeStock_314816591.jpg"
                   alt="work process"
                   className="img-fluid rounded-custom"
                 />
