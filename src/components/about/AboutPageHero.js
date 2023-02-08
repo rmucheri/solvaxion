@@ -39,12 +39,12 @@ const AboutPageHero = () => {
                   /> */}
                 </div>
                 <div className="about-content-right">
-                  {/* <img
+                  <img
                     src="assets/img/about-img-2.jpg"
                     alt="about"
                     className="img-fluid mb-5 rounded-custom shadow"
                   />
-                  <img
+                  {/* <img
                     src="assets/img/about-img-3.jpg"
                     alt="about"
                     className="rounded-custom about-img-last shadow"
