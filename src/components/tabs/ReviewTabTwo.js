@@ -12,50 +12,53 @@ const ReviewTwo = ({ reqPage }) => {
           )}
           <p>
             We are excited to hear about your project and discuss how we can
-            help bring your ideas to life. At Solvaxion, we pride ourselves
-            on delivering high-quality services and building long-term
-            partnerships with our clients.
+            help bring your ideas to life. At Solvaxion, we pride ourselves on
+            delivering high-quality services and building long-term partnerships
+            with our clients.
           </p>
           <hr />
           <div
             className="tab-content testimonial-tab-content text-white-80"
             id="pills-tabContent"
           >
-            {/* <div
-              className='tab-pane fade show active'
-              id='testimonial-tab-1'
-              role='tabpanel'
+            <div
+              className="tab-pane fade show active"
+              id="testimonial-tab-1"
+              role="tabpanel"
             >
-              <blockquote className='blockquote'>
+              <blockquote className="blockquote text-danger">
                 <em>
-                  "Globally actualize economically sound alignments before
-                  tactical systems. Rapidiously actualize processes technically
-                  sound infomediaries. Holisticly pursue team building catalysts
-                  for change before team driven products. "
+                  "To design is much more than simply to assemble, to order, or
+                  even to edit: it is to add value and meaning, to illuminate,
+                  to simplify, to clarify, to modify, to dignify, to dramatize,
+                  to persuade, and perhaps even to amuse. To design is to
+                  transform prose into poetry."
                 </em>
               </blockquote>
-              <div className='author-info mt-3'>
-                <span className='h6'>Veronica P. Byrd</span>
-                <span className='d-block small'>Veterinary technician</span>
+              <div className="author-info mt-3">
+                <span className="h6">Paul Rand</span>
+                <span className="d-block small">
+                  Art director and graphic designer
+                </span>
               </div>
-            </div> */}
+            </div>
             <div
               className="tab-pane fade"
               id="testimonial-tab-2"
               role="tabpanel"
             >
-              <blockquote className="blockquote">
+              <blockquote className="blockquote text-danger">
                 <em>
-                  "Synergistically evisculate market positioning technology
-                  vis-a-vis team driven innovation. Phosfluorescently morph
-                  tactical communities for superior applications. Distinctively
-                  pontificate resource-leveling infomediaries and parallel
-                  models. "
+                  "A designer knows he has achieved perfection not when there is
+                  nothing left to add, but when there is nothing left to take
+                  away”
                 </em>
               </blockquote>
               <div className="author-info mt-3">
-                <span className="h6">Raymond H. Gilbert</span>
-                <span className="d-block small">Forest fire inspector</span>
+                <span className="h6">Antoine de Saint-Exupery</span>
+                <span className="d-block small">
+                  Writer, poet, journalist and pioneering aviator
+                </span>
               </div>
             </div>
             <div
@@ -63,17 +66,17 @@ const ReviewTwo = ({ reqPage }) => {
               id="testimonial-tab-3"
               role="tabpanel"
             >
-              <blockquote className="blockquote">
+              <blockquote className="blockquote text-danger">
                 <em>
-                  "Professionally myocardinate corporate e-commerce through
-                  alternative functionalities. Compellingly matrix distributed
-                  convergence with goal-oriented synergy. Professionally embrace
-                  interactive opportunities through parallel innovation. "
+                  "The role of the designer is that of a good, thoughtful host
+                  anticipating the needs of his guests. "
                 </em>
               </blockquote>
               <div className="author-info mt-3">
-                <span className="h6">Donna R. Book</span>
-                <span className="d-block small">Extractive engineer</span>
+                <span className="h6">Charles Eames</span>
+                <span className="d-block small">
+                  Designer, architect and filmmaker
+                </span>
               </div>
             </div>
           </div>
@@ -92,7 +95,8 @@ const ReviewTwo = ({ reqPage }) => {
                 aria-selected="true"
               >
                 <img
-                  src="assets/img/testimonial/1.jpg"
+                  src="assets/img/WebsiteImages/Paul_rand_loc.jpg"
+                  // src="assets/img/testimonial/1.jpg"
                   alt="testimonial"
                   width="55"
                   className="img-fluid rounded-circle"
@@ -109,7 +113,8 @@ const ReviewTwo = ({ reqPage }) => {
                 aria-selected="false"
               >
                 <img
-                  src="assets/img/testimonial/4.jpg"
+                  src="assets/img/WebsiteImages/Antoine_de_Saint-Exupery.jpg"
+                  // src="assets/img/testimonial/4.jpg"
                   alt="testimonial"
                   width="55"
                   className="img-fluid rounded-circle"
@@ -126,7 +131,8 @@ const ReviewTwo = ({ reqPage }) => {
                 aria-selected="false"
               >
                 <img
-                  src="assets/img/testimonial/6.jpg"
+                  src="assets/img/WebsiteImages/Charles_Eames.jpg"
+                  // src="assets/img/testimonial/6.jpg"
                   alt="testimonial"
                   width="55"
                   className="img-fluid rounded-circle"

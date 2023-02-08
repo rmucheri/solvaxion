@@ -82,7 +82,7 @@ const FeatureImgThree = ({ paddingTop }) => {
                   </li>
                 </ul>
                 <img
-                  src="assets/img/Website Images/Licensed/AdobeStock_514895885_462x693.jpeg"
+                  src="assets/img/WebsiteImages/Licensed/AdobeStock_514895885_462x693.jpeg"
                   // src="assets/img/ficha.jpg"
                   alt="feature"
                   className="img-fluid rounded-custom"
