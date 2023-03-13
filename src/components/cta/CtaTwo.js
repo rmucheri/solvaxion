@@ -1,4 +1,4 @@
-// import React, { useState } from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import SectionTitle from "../common/SectionTitle";
 
@@ -7,7 +7,7 @@ const CtaTwo = () => {
 
   return (
     <>
-      <section className="cta-subscribe bg-dark ptb-120 position-relative overflow-hidden">
+      <section className="cta-subscribe bg-dark ptb-120 position-relative overflow-hidden">s
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-8 col-md-10">
